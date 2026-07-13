@@ -42,3 +42,5 @@ ENV TENSOR_SPLIT=
 # ENV HF_TOKEN=
 
 CMD ["python3", "/app/handler.py"]
+
+# trigger CI
